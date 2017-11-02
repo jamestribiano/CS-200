@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+//Temperature conveter. 
 
 //Base class for person
 class tempConvert
